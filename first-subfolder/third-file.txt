@@ -1,1 +1,3 @@
-third-file
+Third file text
+
+Also changed file

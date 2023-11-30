@@ -1,1 +1,3 @@
-second-file
+Second file text
+
+Changed file
